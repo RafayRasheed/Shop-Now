@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Shop Now",
+    "slug": "Shop_Now",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon/cart.png",
+    "splash": {
+      "image":"./assets/icon/splash2.png",
+      "resizeMode":"contain",
+      "backgroundColor": "#4889a3"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "51ee14cb-63a9-4b94-a348-6d6c10386698"
+      }
+    }
+  }
+}
